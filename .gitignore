@@ -1,0 +1,82 @@
+# /server-springBoot
+/server-springBoot/target/
+!/server-springBoot/.mvn/wrapper/maven-wrapper.jar
+!/server-springBoot/**/src/main/**
+!/server-springBoot/**/src/test/**
+
+### STS ###
+/server-springBoot/.apt_generated
+/server-springBoot/.classpath
+/server-springBoot/.factorypath
+/server-springBoot/.project
+/server-springBoot/.settings
+/server-springBoot/.springBeans
+/server-springBoot/.sts4-cache
+
+### IntelliJ IDEA ###
+/server-springBoot/.idea
+/server-springBoot/*.iws
+/server-springBoot/*.iml
+/server-springBoot/*.ipr
+
+### NetBeans ###
+/server-springBoot/nbproject/private/
+/server-springBoot/nbbuild/
+/server-springBoot/dist/
+/server-springBoot/nbdist/
+/server-springBoot/.nb-gradle/
+/server-springBoot/build/
+
+### log ###
+/server-springBoot/log
+
+## jar
+/server-springBoot/src/main/docker/*.jar
+
+# front-end
+/front-end-java/.DS_Store
+/front-end-java/node_modules/
+/front-end-java/dist/
+/front-end-java/npm-debug.log*
+/front-end-java/yarn-debug.log*
+/front-end-java/yarn-error.log*
+/front-end-java/test/unit/coverage/
+
+# Editor directories and files
+/front-end-java/
+/front-end-java/.idea
+/front-end-java/.vscode
+/front-end-java/*.suo
+/front-end-java/*.ntvs*
+/front-end-java/*.njsproj
+/front-end-java/*.sln
+
+/front-end-java/*.old
+
+# Server-Golang
+/server-golang/.vscode
+/server-golang/.idea
+/server-golang/.vscode/settings.json
+/server-golang/.vscode/settings.json
+
+# front-end-gin
+/front-end/.DS_Store
+/front-end/node_modules/
+/front-end/dist/
+/front-end/npm-debug.log*
+/front-end/yarn-debug.log*
+/front-end/yarn-error.log*
+/front-end/test/unit/coverage/
+
+# Editor directories and files
+/front-end/.idea
+/front-end/.vscode
+/front-end/*.suo
+/front-end/*.ntvs*
+/front-end/*.njsproj
+/front-end/*.sln
+
+/front-end/*.old
+
+
+_book/*

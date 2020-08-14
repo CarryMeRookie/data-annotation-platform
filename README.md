@@ -5,6 +5,7 @@
 > English | [中文](./doc/README_zh.md)
 
 A efficient Data Annotation Platform for Computer Vision Tasks with a container monitoring system.
+> Note: Due to privacy policy, original project has been set as the private project. So the project is developed on its own.
 
 ##  :crystal_ball: **Visuals**
 
